@@ -1,0 +1,46 @@
+class Program
+    {
+        static void Main(string[] args)
+        {
+            throwClass cl = new throwClass();
+ 
+            try
+            {
+                string test1 = "stroka";
+                Console.WriteLine("Первый тест вставляем тип string");
+                cl.checkInt(test1);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+ 
+ 
+            try
+            {
+                int test2 = 123;
+                Console.WriteLine("Второй тест вставляем тип int");
+                cl.checkInt(test2);
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            Console.ReadKey();
+        }
+    }
+ 
+class throwClass
+    {
+        public void checkInt(object dannie)
+        {
+            if (dannie is int)
+            {
+                throw new Exception("Нельзя использовать int");
+            }
+            else
+            {
+                Console.WriteLine(dannie);
+            }
+        }
+    }
