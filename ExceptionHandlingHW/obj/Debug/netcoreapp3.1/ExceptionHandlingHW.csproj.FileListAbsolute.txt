@@ -1,0 +1,13 @@
+C:\Users\Esetb\source\repos\ExceptionHandlingHW\ExceptionHandlingHW\bin\Debug\netcoreapp3.1\ExceptionHandlingHW.exe
+C:\Users\Esetb\source\repos\ExceptionHandlingHW\ExceptionHandlingHW\bin\Debug\netcoreapp3.1\ExceptionHandlingHW.deps.json
+C:\Users\Esetb\source\repos\ExceptionHandlingHW\ExceptionHandlingHW\bin\Debug\netcoreapp3.1\ExceptionHandlingHW.runtimeconfig.json
+C:\Users\Esetb\source\repos\ExceptionHandlingHW\ExceptionHandlingHW\bin\Debug\netcoreapp3.1\ExceptionHandlingHW.runtimeconfig.dev.json
+C:\Users\Esetb\source\repos\ExceptionHandlingHW\ExceptionHandlingHW\bin\Debug\netcoreapp3.1\ExceptionHandlingHW.dll
+C:\Users\Esetb\source\repos\ExceptionHandlingHW\ExceptionHandlingHW\bin\Debug\netcoreapp3.1\ExceptionHandlingHW.pdb
+C:\Users\Esetb\source\repos\ExceptionHandlingHW\ExceptionHandlingHW\obj\Debug\netcoreapp3.1\ExceptionHandlingHW.csprojAssemblyReference.cache
+C:\Users\Esetb\source\repos\ExceptionHandlingHW\ExceptionHandlingHW\obj\Debug\netcoreapp3.1\ExceptionHandlingHW.AssemblyInfoInputs.cache
+C:\Users\Esetb\source\repos\ExceptionHandlingHW\ExceptionHandlingHW\obj\Debug\netcoreapp3.1\ExceptionHandlingHW.AssemblyInfo.cs
+C:\Users\Esetb\source\repos\ExceptionHandlingHW\ExceptionHandlingHW\obj\Debug\netcoreapp3.1\ExceptionHandlingHW.csproj.CoreCompileInputs.cache
+C:\Users\Esetb\source\repos\ExceptionHandlingHW\ExceptionHandlingHW\obj\Debug\netcoreapp3.1\ExceptionHandlingHW.dll
+C:\Users\Esetb\source\repos\ExceptionHandlingHW\ExceptionHandlingHW\obj\Debug\netcoreapp3.1\ExceptionHandlingHW.pdb
+C:\Users\Esetb\source\repos\ExceptionHandlingHW\ExceptionHandlingHW\obj\Debug\netcoreapp3.1\ExceptionHandlingHW.genruntimeconfig.cache
